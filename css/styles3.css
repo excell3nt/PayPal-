@@ -1,0 +1,124 @@
+.div1{
+  display: flex;margin-left: 65px;
+}
+.imgc1{
+  width:150px;margin-top: 5px;
+}
+.c1{
+  color:rgb(32, 32, 32);font-size: 20px;margin-left: 400px;
+}
+.button1{
+  margin-left: 400px;margin-top: 10px;padding: 10px;color: blue;border-color: blue;
+  border-radius: 50px;padding-left: 20px;padding-right: 20px;background-color: white;border-width: 1px;
+}
+.button2{
+  margin-left: 10px;padding: 10px;color: white;background-color: blue;border: none;
+  padding-left: 20px;padding-right: 20px;border-radius: 50px;
+}
+.imgc2{
+  width: 100%;margin-top: 10px;
+}
+.c3{
+  font-size: 45px;color: rgb(32, 32, 32);text-align: center;margin-top: 70px;
+}
+.c4{
+  margin-left: 620px;
+}
+.c5{
+  font-size: 30px;text-align: center;
+}
+.c6{
+  font-size: 15px;text-align: center;
+}
+.c7{
+  color: blue;background-color: white;padding: 15px;border-color: blue;border-radius: 60px;
+  padding-left: 60px;padding-right: 60px;margin-left: 570px;margin-top: 10px;border-width: 1px;
+}
+.c8{
+  font-size: 40px;text-align: center;color: rgb(32, 32, 32);
+}
+.div2{
+  margin-top: 50px;padding-top: 50px;background-color: whitesmoke;padding-bottom: 80px;
+}
+.c9{
+  text-align: center;
+}
+.sdiv2{
+  display: flex;
+}
+.c10{
+  margin-left: 180px;box-shadow:rgb(32, 32, 32);
+}
+.c11{
+  border-color: rgb(99, 98, 98);border-width: 1px;height: 20px;margin-left: -280px;margin-top: 170px;position: absolute;
+  width: 20px;padding: 20px;padding-bottom: 28px;border-radius: 100%;padding-right: 25px;
+  
+}
+.sdiv2-1{
+  display: flex;
+}
+span{
+  color: blue;
+}
+.c12{
+  margin-left: 165px;
+}
+.c13{
+  color: blue;background-color: whitesmoke;padding: 15px;border-color: blue;border-radius: 60px;
+  padding-left: 60px;padding-right: 60px;margin-left: 570px;margin-top: 10px;border-width: 1px;
+}
+.div3{
+  background-color: darkblue;padding-top: 50px;padding-bottom: 50px;
+}
+.c14{
+  font-size: 40px;color: white;text-align: center;
+}
+.c15{
+  font-size: 15px;color: white;margin-left: 100px;
+}
+.span1{
+  font-size:32px ;color: white;text-align: center;
+}
+.sdiv3{
+  display: flex;
+}
+.c16{
+  font-size: 18px;color: white;margin-left: 100px;
+}
+.c17{
+  font-size: 18px;color: white;margin-left: 100px;margin-top: 35px;
+}
+.c18{
+  text-align: center;font-size: 30px;
+}
+.div4{
+  padding-top: 50px;padding-bottom: 80px;background-color: whitesmoke;
+}
+.c19{
+  padding-left: 130px;padding-right: 130px;margin-left:495px;font: bold;color: white;font-size: 15px;cursor: pointer;
+  background-color: rgb(11, 90, 155);padding-top: 17px;padding-bottom: 17px;border-radius: 25px;border: none;
+}
+.sdiv5{
+  display: flex;padding-top: 50px;padding-left: 50px;
+}
+.c20{
+  padding-left: 30px;cursor: pointer;
+}
+.c21{
+  width: 25px;margin-left:700px;cursor: pointer;
+}
+.c22{
+  margin-left: 75px;
+}
+.sdiv6{
+  display: flex;margin-left: 50px;
+}
+.c23{
+  padding-left:30px;font-size: 13px;cursor: pointer;
+}
+.c24{
+  font-size: 13px; margin-left: 530px;cursor: pointer;
+}
+.c25{
+  font-size: 13px;margin-left: 80px;
+}
